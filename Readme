@@ -1,0 +1,1 @@
+Esse trabalho automatiza um processo de separação de uma planilha por cada órgão registrado nela. Usou-se, portanto, a lógica do group by. Todo o processo é executado por um aplicativo (tkinter)
